@@ -1,0 +1,15 @@
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\bin\Debug\net9.0\Lab15_Ex05.exe
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\bin\Debug\net9.0\Lab15_Ex05.deps.json
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\bin\Debug\net9.0\Lab15_Ex05.runtimeconfig.json
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\bin\Debug\net9.0\Lab15_Ex05.dll
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\bin\Debug\net9.0\Lab15_Ex05.pdb
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.AssemblyInfoInputs.cache
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.AssemblyInfo.cs
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.csproj.CoreCompileInputs.cache
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.sourcelink.json
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.dll
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\refint\Lab15_Ex05.dll
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.pdb
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\Lab15_Ex05.genruntimeconfig.cache
+D:\lab15_oop\Lab15-CSharp-Method-Overloading\Lab15_Ex05\obj\Debug\net9.0\ref\Lab15_Ex05.dll
